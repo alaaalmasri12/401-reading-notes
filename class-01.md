@@ -15,9 +15,13 @@
 ## Provide code snippets showing 3 different ways to export a function from a node module
 
 `let arthemtic=module.exports={}`//object
+
 `exports.SimpleMessage = 'Hello world'`//string
+
 `module.exports = function (msg) { `//function
+
 `console.log(msg);`
+
 `};`
 
 ecosystem: is a collection of software packages, libraries, and other resources 
