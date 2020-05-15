@@ -21,12 +21,13 @@
 `};`
 
 ecosystem: is a collection of software packages, libraries, and other resources 
-Node.js: an open-source JavaScript runtime environment that executes JavaScript code outside of a web browser:its a software application used to acsses information from the word wide web
+Node.js: an open-source JavaScript runtime environment that executes JavaScript code outside of a web browser:its 
+browser:its a software application used to acsses information from the word wide web
 V8 Engine:open-source JavaScript engine developed that is used in browsers that is built using c++
 module:A set of functions you want to include in your application
 package:is any file or directory in the node modules directory that can be loaded by the Node. js 
 node package manager (npm):its an open source platform that you can install finshed code and use it in your application 
 server:its a place where  which can serve content to users
 environment:sets of  tools that you use to building your application
-interpreter: JavaScript is an interpreted language because every time a program runs, an interpreted language is translated or interpreted  line by line
+interpreter: executes instructions written in a programming or scripting language without previously converting them to an object code or machine code
 compiler: is a software that converts a high-level code scripted by developers to a low-level binary code in machine language.
